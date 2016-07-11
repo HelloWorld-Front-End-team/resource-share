@@ -1,0 +1,59 @@
+##  书籍推荐名单
+
+#### css:
+
+《精通css》
+
+#### Git: 
+《Git Pro2》
+
+#### http基础知识:
+《HTTP权威指南》
+
+#### 原生JavaScript:
+
+《JavaScript高级程序设计》
+
+《Dom编程艺术》
+
+《JavaScript语言精粹》
+
+《JavaScript设计模式》
+
+《高性能JavaScript》
+
+《数据结构与算法JavaScript描述》
+
+《es6入门第2版》
+
+#### 正则表达式:
+
+《正则表达式必知必会》
+
+#### jquery:
+
+《锋利的jquery》
+
+#### nodejs
+
+《了不起的nodejs》
+
+《深入浅出nodejs》
+
+《Nodejs实战》
+
+#### webkit浏览器内核
+
+《Webkit技术内幕》
+
+#### 数据库
+
+《MogoDB权威指南》
+
+#### 前端安全
+
+《Web前端黑客技术揭秘》
+
+#### 软件工程
+
+《人月神话》
